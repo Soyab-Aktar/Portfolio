@@ -4,12 +4,15 @@
     font-style: normal;
     font-variation-settings:
         "wdth" 100;
+
+        background-color: black;
 }
 
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: white;
 }
 
 
@@ -102,6 +105,7 @@ nav li a {
     border-radius: 5px;
     padding: 18px 35px;
     margin-right: 30px;
+    background-color: black;
 }
 
 .banner-img {
@@ -329,6 +333,7 @@ footer {
     border-radius: 5px;
     padding: 10px;
     font-size: 16px;
+    background-color: black;
 }
 
 .info-chat {
@@ -338,6 +343,7 @@ footer {
     border-radius: 5px;
     font-size: 16px;
     padding: 18px 365px 134px 10px;
+    background-color: black;
 
 }
 
